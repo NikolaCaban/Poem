@@ -1,0 +1,33 @@
+body{
+    background-color: tomato;
+}
+.text1,
+.text2,
+.sucho,
+.suchaté{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 25px;
+    padding: 50px;
+}
+.hello{
+    display: flex;
+    justify-content: space-evenly;
+}
+.visual,
+.visual1{
+    display: inline-flex;
+    align-items: center;
+}
+.visual{
+    position: relative;
+}
+.visual2{
+    position: absolute;
+    right: 580px;
+    top: 400px
+}
+.helloagain{
+    display: flex;
+    justify-content: space-evenly;
+}
+
